@@ -42,7 +42,7 @@
 <image alt="Магазин"
 	title="Магазин" width="250" height="500" src="/scrinshot/scrinshot_14.jpg">
 <image alt="Магазин"
-	title="Менеджер Категории" width="250" height="500" src="/scrinshot/scrinshot_15.jpg">
+	title="Менеджер Категории" width="250" height="500" src="/scrinshot/scrinshot_15_1.jpg">
 <image alt="Менеджер Каталога"
 	title="Менеджер Каталога" width="250" height="500" src="/scrinshot/scrinshot_16.jpg">
 <image alt="Редактор Каталога"
